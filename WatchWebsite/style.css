@@ -1,0 +1,60 @@
+h1{
+    font-family: 'Arial Narrow Bold', Impact;
+    font-size: 75px;
+    text-align: center;
+    color:rgb(82, 29, 29);
+    line-height: 160px;
+}
+body {
+    background-size: cover;
+    background-image: url("Photos/10.jpg");
+}
+p {
+    font-family: Arial;
+    font-size: 22px;
+    line-height: 40px;
+    text-indent: 0px;
+    margin: 20px;
+    font-style: italic;
+
+}
+.list-group-item {
+    color: whitesmoke;
+    background-color: black;
+    line-height: 30px;
+    border-radius: 15px;
+    border-color: #656262;
+    border-width: 10px;
+}
+.blockquote {
+    color: rgb(78, 70, 70);
+}
+h4 {
+    line-height: 50px;
+    text-align: end;
+    margin-top: 30px;
+}
+h2 {
+    line-height: 80px;
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial;
+    color:rgb(82, 29, 29);
+}
+.container {
+    margin-top: 100px;
+}
+h3 {
+    font-family: 'Arial Narrow Bold', Impact;
+    color:rgb(63, 55, 55);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+button {
+    background-color: rgb(58, 88, 205);
+    color: aliceblue;
+    border-width: 5px;
+    border-color: rgb(78, 70, 70);
+    margin-bottom: 5px;
+}
