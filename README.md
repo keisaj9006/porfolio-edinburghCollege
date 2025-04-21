@@ -1,6 +1,3 @@
-# Portfolio-edinburghCollege
-Submitted portfolio is a part of the end  of the course in Edinburgh College.
-
 # Portfolio Project - Edinburgh College
 
 Welcome to my portfolio repository! This project showcases my skills developed during my time at **Edinburgh College** and self-driven learning. It is a collection of practical exercises, personal projects, and real-world examples that demonstrate my abilities in **frontend** and **backend** web development.
