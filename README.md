@@ -8,7 +8,7 @@ Welcome to my portfolio repository! This project showcases my skills developed d
 
 I'm **Joanna Kwapis**, a Junior Software Developer passionate about building web applications, mobile apps, and AI-assisted solutions.
 
-- 🎓 Graduate of Edinburgh College - Software Development Bootcamp (2025)
+- 🎓 Graduate of Edinburgh College - Software Development Bootcamp (2022)
 - 🔧 Skills: **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **SQL**, **Software Testing**
 - 👨‍💻 Strong problem-solving mindset, teamwork, adaptability, and customer-focused thinking
 - 🔗 Connect with me: [GitHub](https://github.com/joannakwapis) | [LinkedIn](https://www.linkedin.com/in/joanna-kwapis)
